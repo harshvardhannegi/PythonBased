@@ -1,0 +1,37 @@
+{
+  "repo_url": "https://github.com/TodFodCoders365/test-repo",
+  "team_name": "23",
+  "leader_name": "123",
+  "branch_created": "23_123_AI_FIX",
+  "total_failures": 3,
+  "total_fixes": 2,
+  "total_commits": 3,
+  "final_status": "PASSED",
+  "iterations": 4,
+  "retry_limit": 5,
+  "total_time_seconds": 23,
+  "started_at": "2026-02-20T01:11:11.852546+00:00",
+  "ended_at": "2026-02-20T01:11:34.855881+00:00",
+  "timeline": [
+    {
+      "run": 1,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T01:11:13.281710+00:00"
+    },
+    {
+      "run": 2,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T01:11:21.327324+00:00"
+    },
+    {
+      "run": 3,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T01:11:30.514127+00:00"
+    },
+    {
+      "run": 4,
+      "status": "PASSED",
+      "timestamp": "2026-02-20T01:11:34.271529+00:00"
+    }
+  ]
+}
