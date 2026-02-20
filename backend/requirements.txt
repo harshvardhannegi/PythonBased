@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gitpython
+pytest
+flake8
+ruff
+basedpyright
+python-lsp-server
+openai
+python-dotenv

@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/.venv/bin/python",
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.ruff": true,
+    "source.organizeImports.ruff": true,
+  },
+  "ruff.nativeServer": "on",
+  "ruff.lint.run": "onType",
+}

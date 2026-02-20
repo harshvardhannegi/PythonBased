@@ -1,0 +1,29 @@
+# Bytecode / caches
+__pycache__/
+*.pyc
+
+# Virtualenvs
+.venv/
+
+# Test caches
+.pytest_cache/
+
+# Results and work artifacts
+backend/results/
+backend/workspace/repo/.venv/
+backend/workspace/repo/.pytest_cache/
+backend/workspace/repo/__pycache__/
+backend/workspace/repo/src/__pycache__/
+backend/workspace/repo/tests/__pycache__/
+backend/workspace/repo/results/
+
+# Node/Yarn
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+frontend/dist/
+backend/static/
+
+.env
